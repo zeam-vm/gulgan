@@ -10,7 +10,7 @@ by adding `gulgan` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:gulgan, "~> 0.1.0"}
+    {:gulgan, "~> 0.0.0"}
   ]
 end
 ```
